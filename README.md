@@ -6,6 +6,8 @@ The Smart Home Security System was developed to explore how multiple low-cost se
 
 The system combines a light-dependent resistor (LDR), HC-SR04 ultrasonic sensor, force-sensitive resistor (FSR), analog signal-processing circuitry, an ESP32 microcontroller, and IoT connectivity through Blynk. Rather than treating each sensor independently, the system fuses their outputs to generate a more reliable intrusion estimate and send real-time alerts to a mobile device.
 
+Technical Report: https://docs.google.com/document/d/1ALwpuyzm_y-HGJbWGW_1bsQN4a0hkKHCoau3NXK7akg/edit?usp=sharing 
+
 ## The challenge
 
 Many home security systems rely on a single sensing method, such as motion detection, magnetic door sensors, or cameras.
