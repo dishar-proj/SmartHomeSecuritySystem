@@ -369,5 +369,3 @@ It is not a certified security product and should not be relied upon as a replac
 The Smart Home Security System was developed as an independent embedded-systems project at the University of Georgia.
 
 The project brought together sensor physics, analog circuit design, microcontroller programming, signal processing, sensor fusion, and IoT communication to create an end-to-end physical security prototype.
-
-*Combining multiple signals to make smarter security decisions.*
